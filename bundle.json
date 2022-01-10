@@ -1,0 +1,39 @@
+{
+    "name": "@ohos/lvm2",
+    "version": "",
+    "description": "LVM2 refers to the userspace toolset that provide logical volume management facilities on linux, It is reasonably backwards-compatible with the original LVM toolset",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "BSD 2-Clause",
+    "repository": "https://gitee.com/openharmony/third_party_LVM2",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "third_party"
+    ],
+    "keywords": [
+        "third-party",
+        "LVM2"
+    ],
+    "envs": [],
+    "dirs": [],
+    "segment": {
+        "destPath": "third_party/LVM2"
+    },
+    "component": {
+        "name": "thirdparty_lvm2",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
