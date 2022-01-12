@@ -17,8 +17,8 @@
         "third-party",
         "LVM2"
     ],
-    "envs": [],
-    "dirs": [],
+    "envs": {},
+    "dirs": {},
     "segment": {
         "destPath": "third_party/LVM2"
     },
