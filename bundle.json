@@ -1,0 +1,34 @@
+{
+    "name": "@ohos/lvm2",
+    "description": "LVM2 refers to the userspace toolset that provide logical volume management facilities on linux, It is reasonably backwards-compatible with the original LVM toolset",
+    "version": "3.1",
+    "license": "BSD 2-Clause",
+    "publishAs": "code-segment",
+    "segment": {
+        "destPath": "third_party/LVM2"
+    },
+    "dirs": {},
+    "scripts": {},
+    "licensePath": "COPYING.BSD",
+    "readmePath": {
+        "en": "README"
+    },
+    "component": {
+        "name": "thirdparty_lvm2",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
